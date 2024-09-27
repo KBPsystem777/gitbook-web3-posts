@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Why Frontend Developers Should Transition to Web3 Development](README.md)
