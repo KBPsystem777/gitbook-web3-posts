@@ -64,7 +64,7 @@ Web3 isn’t just a trend — it’s the future. By making the leap now, you pos
 
 #### Connect with Me
 
-If you found this article helpful and want to stay connected, make sure to check out my Linktree for all the latest updates!
+Hi! I'm Koleen Paunon, a blockchain developer and if you found this article helpful and want to stay connected, make sure to check out my Linktree for all the latest updates!
 
 {% embed url="https://linktr.ee/koleenbp" %}
 
