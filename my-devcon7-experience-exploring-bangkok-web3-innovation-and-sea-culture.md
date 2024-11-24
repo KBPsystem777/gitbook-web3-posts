@@ -1,8 +1,8 @@
 ---
+icon: memo-circle-check
 description: >-
   Originally posted at
   https://koleenbp.substack.com/p/my-devcon7-experience-exploring-bangkok
-icon: plane-prop
 cover: .gitbook/assets/image.png
 coverY: 0
 ---

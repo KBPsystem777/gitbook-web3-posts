@@ -1,5 +1,5 @@
 ---
-icon: file-binary
+icon: memo-circle-check
 cover: .gitbook/assets/koleenbp-web3.jpeg
 coverY: 0
 ---
